@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bay</h1>
-<h3 align="center">A IT student at Udayana University🏫</h3>
+<h3 align="center">An IT student at Udayana University🏫</h3>
 
 - 🌱 I’m currently learning **VILT stack**
 
