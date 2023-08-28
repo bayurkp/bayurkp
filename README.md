@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bay</h1>
 <h3 align="center">An IT student at Udayana University🏫</h3>
 
-- 🌱 I’m currently learning **VILT stack**
+- 🌱 I’m currently learning **"what i want" stack**
 
 - 📫 How to reach me **bayurkp194@gmail.com**
 
